@@ -32,15 +32,15 @@
  30. how to use in-memory cache in asp.net core
  31. reading appsetting.json values in controller
  32. how to store object in session other than string and int in asp.net core.
-how to create CUSTOM MIDDLEWARE in ASP.NET CORE
-use of launchsetting.json in ASP.NET Core
-how to configure runtime compilation of views while development. :- AddRazorRuntimeCompilation();
-Health checks
-ASYNCACTIONFILTER IN ASP.NET CORE MVC
-How to Secure asp.net core with oAuth2.0 and what is oAuth middle ware
-2. Authentication in asp.net core web api and OWIN 
-3. Explain factory pattern using built - in DI in asp.net core
-What are filters in ASP.NET Core?
-.csproj file, and it's importance in .net core. comparison of .csproj file with previous version of .net
-Ways of implementing versioning in Asp.net core Api
-What is IOption in ASP.NET core
+ 33. how to create CUSTOM MIDDLEWARE in ASP.NET CORE
+ 34. use of launchsetting.json in ASP.NET Core
+ 35. how to configure runtime compilation of views while development. :- AddRazorRuntimeCompilation();
+ 36. Health checks
+ 37. ASYNCACTIONFILTER IN ASP.NET CORE MVC
+ 38. How to Secure asp.net core with oAuth2.0 and what is oAuth middle ware
+ 39. Authentication in asp.net core web api and OWIN 
+ 40. Explain factory pattern using built - in DI in asp.net core
+ 41. What are filters in ASP.NET Core?
+ 42. .csproj file, and it's importance in .net core. comparison of .csproj file with previous version of .net
+ 43. Ways of implementing versioning in Asp.net core Api
+ 44. What is IOption in ASP.NET core
