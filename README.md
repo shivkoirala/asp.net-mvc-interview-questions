@@ -1,3 +1,6 @@
+Watch this awesome youtube  video which covers [25 important ASP.NET MVC Interview questions.](https://www.youtube.com/watch?v=pXmMdmJUC0g "25 important ASP.NET MVC Interview questions.")
+
+
 **Below is the list of ASP.NET MVC Core interview questions**
 
  1. What is ASP.NET MVC Core ?
